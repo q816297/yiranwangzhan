@@ -1,0 +1,13 @@
+{
+  "webcredentials": {
+    "apps": ["MagicWorld"]
+  },
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["*"],
+        "paths": ["*"]
+      }
+    ]
+  }
+}
